@@ -2,7 +2,7 @@
 
 ## Description
 
-DPol assumes that within a network we have *N* unique identified nodes representing participants. Each of these nodes *p* could vote for a binary value V_p∈{-1, 1} and the expected output of the algorithm is: <img src="https://render.githubusercontent.com/render/math?math=sum_{p} v_p">. 
+DPol assumes that within a network we have *N* unique identified nodes representing participants. Each of these nodes *p* could vote for a binary value V_p∈{-1, 1} and the expected output of the algorithm is: <img src="https://render.githubusercontent.com/render/math?math=\huge sum_{p} v_p">. 
 The algorithm is composed of three phases: 
 1) voting, 
 2) counting and 
